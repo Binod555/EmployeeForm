@@ -16,8 +16,9 @@ const EmployeeForm = () => {
                           <div class="invalid-feedback">
                             Please enter your firstname.
                           </div>
-                          
+                         {/* <!-- <p></p> --> */}
                         </div>
+                          
                         <div class="form-group mb-3">
                           <label for="validationCustom02">Last Name</label>
                           <input type="text" class="form-control" id="validationCustom02" required/>
